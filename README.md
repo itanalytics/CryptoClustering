@@ -6,7 +6,7 @@ This project consists of a Jupyter Notebook containing clustering analysis of cr
 
 Using Python to perform clustering analysis on cryptocurrencies and their price changes over varying lengths of time.  
 The Elbow method was used to find the optimal value for k for the KMeans method.  
-This process was completed on the scaled version of the original dataset and a 3 component PCA version.
+This process was completed on the scaled version of the original dataset and a 3 component PCA version.  
 The results were then visualized for comparing effectiveness in clustering the cryptocurrencies.
 
 
